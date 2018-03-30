@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 29 2018
 
 ### Student Name:  
-(First and Last Name)
+Brittany Ruffin
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was to learn how to code a photo gallery and have it scroll through each photo.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://brittanyruffin.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to create a photo gallery with code.
+2. I learned how to make a photo gallery scroll in a website.
+3. I learned more about git and how it works.
